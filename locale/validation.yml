@@ -1,0 +1,80 @@
+validation:
+  accepted: ":attribute moet worden geaccepteerd."
+  active_url: ":attribute is geen geldige URL."
+  after: ":attribute moet een datum zijn na :date."
+  after_or_equal: ":attribute moet een datum zijn na of op :date."
+  alpha: ":attribute mag alleen letters bevatten."
+  alpha_dash: ":attribute mag alleen letters, cijfers of streepjes bevatten."
+  alpha_num: ":attribute mag alleen letters en cijfers bevatten."
+  array: ":attribute moet een array zijn."
+  before: ":attribute moet een datum zijn voor :date."
+  before_or_equal: ":attribute moet een datum zijn voor of op :date."
+  between:
+    numeric: ":attribute moet liggen tussen :min en :max."
+    file: ":attribute moet tussen :min en :max kilobytes zijn."
+    string: ":attribute moet tussen :min en :max tekens zijn."
+    array: ":attribute moet tussen :min en :max items bevatten."
+  boolean: ":attribute veld moet waar of onwaar zijn."
+  confirmed: ":attribute bevestiging komt niet overeen."
+  date: ":attribute is geen geldige datum."
+  date_format: ":attribute komt niet overeen met formaat :other."
+  different: ":attribute en :other moeten verschillend zijn."
+  digits: ":attribute moet bestaan uit :digits cijfers."
+  digits_between: ":attribute moet bestaan uit tussen de :min en :max cijfers."
+  dimensions: ":attribute heeft een ongeldige afbeeldingsafmetingen."
+  distinct: ":attribute heeft eenzelfde waarde."
+  email: ":attribute moet een geldig e-mailadres zijn."
+  exists: "geselecteerde :attribute is ongeldig."
+  file: ":attribute moet een bestand zijn."
+  filled: ":attribute is vereist."
+  image: ":attribute moet een afbeelding zijn."
+  in: "geselecteerde :attribute is ongeldig."
+  in_array: ":attribute bestaat niet in :other."
+  integer: ":attribute moet een integer zijn."
+  ip: ":attribute moet een geldig IP-adres zijn."
+  json: ":attribute moet een geldige JSON-string zijn."
+  max:
+    numeric: ":attribute mag niet groter zijn dan :max."
+    file: ":attribute mag niet groter zijn dan :max kilobytes."
+    string: ":attribute mag niet groter zijn dan :max tekens."
+    array: ":attribute mag niet meer dan :max items zijn."
+  mimes: ":attribute moet een bestand zijn van het type: :values."
+  mimetypes: ":attribute moet een bestand zijn van het type :values."
+  min:
+    numeric: ":attribute moet tenminste :min zijn."
+    file: ":attribute moet groter zijn dan :min kilobytes."
+    string: ":attribute moet meer zijn dan :min tekens."
+    array: ":attribute moet meer dan :min items zijn."
+  not_in: "geselecteerde :attribute is ongeldig."
+  numeric: ":attribute moet een getal zijn."
+  present: ":attribute veld moet aanwezig zijn."
+  regex: ":attribute formaat is ongeldig."
+  required: ":attribute veld is vereist."
+  required_if: ":attribute veld is vereist als :other is :value."
+  required_unless: ":attribute veld is vereist tenzij :other is in :values."
+  required_with: ":attribute veld is vereist wanneer :values aanwezig is."
+  required_with_all: ":attribute veld is vereist wanneer :values aanwezig is."
+  required_without: ":attribute field is vereist wanneer :values niet aanwezig is."
+  required_without_all: ":attribute field is vereist wanneer geen van :values aanwezig is."
+  same: ":attribute and :other must match."
+  size:
+    numeric: ":attribute moet zijn :size."
+    file: ":attribute moet :size kilobytes zijn."
+    string: ":attribute moet :size tekens zijn."
+    array: ":attribute moet :size items bevatten."
+  string: ":attribute moet een string zijn."
+  timezone: ":attribute moet een geldige zone zijn."
+  unique: ":attribute is reeds bezet."
+  uploaded: ":attribute upload is mislukt."
+  url: ":attribute formaat is ongeldig."
+
+  attributes:
+    username: gebruikersnaam
+    password: wachtwoord
+    email: e-mailadres
+    title: titel
+    content: inhoud
+    name_singular: enkelvoud
+    name_plural: meervoud
+    tag_count_primary: aantal primaire labels
+    tag_count_secondary: aantal secundaire labels
