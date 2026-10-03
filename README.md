@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of gowithplanb/flarum-nl.** Not for installation: use [Packagist](https://packagist.org/packages/gowithplanb/flarum-nl) or the [upstream repository](https://github.com/gowithplanb/flarum-nl).
 
-**0** versions archived · Latest: [`0.1.3`](https://github.com/flarchive/gowithplanb-flarum-nl/tree/archive/v0.1.3) · License: `MIT` · Flarum: `^0.1.0-beta.6`
+**4** versions archived · Latest: [`0.1.3`](https://github.com/flarchive/gowithplanb-flarum-nl/tree/archive/v0.1.3) · License: `MIT` · Flarum: `^0.1.0-beta.6`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2017-01-30 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/gowithplanb-flarum-nl/tree/archive/v0.1.0) |
+| `0.1.1` | 2017-01-30 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/gowithplanb-flarum-nl/tree/archive/v0.1.1) |
+| `0.1.2` | 2017-01-31 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/gowithplanb-flarum-nl/tree/archive/v0.1.2) |
+| `0.1.3` | 2017-02-02 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/gowithplanb-flarum-nl/tree/archive/v0.1.3) |
 
 Catalog entry: [packages/gowithplanb-flarum-nl.json](https://github.com/flarchive/archive-index/blob/main/packages/gowithplanb-flarum-nl.json)
 
